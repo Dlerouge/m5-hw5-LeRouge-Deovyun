@@ -1,1 +1,63 @@
+body {
+    background-image: url(what-the-hex.png);  
+}
 
+h1, h2, a {
+    color: rgb(246, 136, 154);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    margin-left: 350px;
+    background-color: rgb(246, 136, 154);
+    color: white;
+    width: 350px;
+}
+
+nav {
+    margin-left: 350px;
+    font-size: 18px;
+    width: 250px;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    float: left;
+    padding: 15px;
+    margin: 15px;
+}
+.aboutMe img {
+    float: left;
+    width: 227px;
+    height: 260px;
+    padding: 10px;
+}
+
+.aboutMe p {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.aboutMe {
+    background-color: white;
+    width: 500px;
+    padding: 10px;
+    margin-left: 350px;
+}
+
+.connect {
+    padding-left: 5px;
+    background-color: white;
+    height: 150px;
+    width: 250px;
+}
+
+footer {
+    background-color: gray;
+    height:max-content;
+    text-align: center;
+    margin-top: 600px;
+}
