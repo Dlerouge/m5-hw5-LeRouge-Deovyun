@@ -29,6 +29,7 @@ div {
     padding: 15px;
     margin: 15px;
 }
+
 .aboutMe img {
     float: left;
     width: 227px;
@@ -44,11 +45,11 @@ div {
 .aboutMe {
     background-color: white;
     width: 500px;
-    padding: 10px;
+    padding: 5px;
     margin-left: 350px;
 }
 
-.connect {
+.sidebar {
     padding-left: 5px;
     background-color: white;
     height: 150px;
@@ -57,7 +58,7 @@ div {
 
 footer {
     background-color: gray;
-    height:max-content;
+    height: max-content;
     text-align: center;
     margin-top: 600px;
 }
